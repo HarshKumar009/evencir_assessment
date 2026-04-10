@@ -26,34 +26,26 @@ lib/
  └── main.dart           # Entry point and global provider setup
 
 
-### Architecture Breakdown
+Architecture Breakdown
 
 - Models: Defines data blueprints.
 - Views/Pages: Main screen containers for each feature.
 - Widgets: Reusable UI components.
 - Controllers: Business logic handling using ChangeNotifier and Riverpod.
 - Painters: Custom graphics logic for the interactive and blurry Mood Wheel segments.
----
 
-## 3. App Screenshots
+
+3. App Screenshots
 
 (https://github.com/HarshKumar009/evencir_assessment/tree/master/main/screenshots)
-
-> ⚠️ Make sure your screenshots are uploaded in the `/screenshots` folder.
-
----
 
 ## 4. App Video
 
 (https://drive.google.com/file/d/1zFHHlOiqoVv39e4wH8NC4iuzddSHhLs0/view?usp=sharing)
 
----
-
 ## 5. App APK
 
 (https://github.com/HarshKumar009/evencir_assessment/tree/master/releases/download/v1.0)
-
----
 
 ## 🚀 Features
 
@@ -62,9 +54,6 @@ lib/
 - Persistent Workout Plans  
 - Interactive Mood Selector  
 - Responsive UI (All screen sizes supported)
-
----
-
 
 
 ## 👨‍💻 Author
