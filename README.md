@@ -24,7 +24,8 @@ lib/
  │         ├── domain/        # Models (Workout and Mood objects)
  │         └── presentation/  # UI (Pages, Widgets, Controllers, and Painters)
  └── main.dart           # Entry point and global provider setup
-
+ 
+```
 
 Architecture Breakdown
 
@@ -39,15 +40,15 @@ Architecture Breakdown
 
 (https://github.com/HarshKumar009/evencir_assessment/tree/master/main/screenshots)
 
-## 4. App Video
+4. App Video
 
 (https://drive.google.com/file/d/1zFHHlOiqoVv39e4wH8NC4iuzddSHhLs0/view?usp=sharing)
 
-## 5. App APK
+5. App APK
 
 (https://github.com/HarshKumar009/evencir_assessment/tree/master/releases/download/v1.0)
 
-## 🚀 Features
+## Features
 
 - Health Dashboard with insights  
 - Drag & Drop Training Calendar  
@@ -59,4 +60,3 @@ Architecture Breakdown
 ## 👨‍💻 Author
 
 **Harsh Kumar**  
----
