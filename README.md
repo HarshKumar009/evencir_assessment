@@ -57,6 +57,6 @@ Architecture Breakdown
 - Responsive UI (All screen sizes supported)
 
 
-## 👨‍💻 Author
+## Author
 
 **Harsh Kumar**  
