@@ -37,7 +37,7 @@ lib/
 
 ## 3. App Screenshots
 
-[View Project Screenshots](https://github.com/YOUR_USERNAME/evencir_assessment/tree/main/screenshots)
+(https://github.com/HarshKumar009/evencir_assessment/tree/master/main/screenshots)
 
 > ⚠️ Make sure your screenshots are uploaded in the `/screenshots` folder.
 
@@ -45,13 +45,13 @@ lib/
 
 ## 4. App Video
 
-[Watch App Flow & Functionality Video](https://drive.google.com/file/d/1zFHHlOiqoVv39e4wH8NC4iuzddSHhLs0/view?usp=sharing)
+(https://drive.google.com/file/d/1zFHHlOiqoVv39e4wH8NC4iuzddSHhLs0/view?usp=sharing)
 
 ---
 
 ## 5. App APK
 
-[Download Android APK](https://github.com/YOUR_USERNAME/evencir_assessment/releases/download/v1.0/app-release.apk)
+(https://github.com/HarshKumar009/evencir_assessment/tree/master/releases/download/v1.0)
 
 ---
 
@@ -70,6 +70,4 @@ lib/
 ## 👨‍💻 Author
 
 **Harsh Kumar**  
-Flutter Developer | Firebase | API Integration
-
 ---
